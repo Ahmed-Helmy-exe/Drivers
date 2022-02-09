@@ -1,7 +1,7 @@
 /*
  * S_SEG.c
  * Created: 8/31/2021 10:37:03 AM
- *  Author: MOHAMED_HELMY
+ *  Author: AHMED_HELMY
  */ 
 
 #include "S_SEG_CFG.h"
