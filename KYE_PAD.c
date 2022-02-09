@@ -1,7 +1,7 @@
 /*
  * KYE_PAD.c
  * Created: 9/1/2021 7:06:50 PM
- *  Author: MOHAMED_HELMY
+ *  Author: AHMED_HELMY
  */ 
 
 #include "KEY_PAD_CFG.h"
