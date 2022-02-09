@@ -1,7 +1,7 @@
 /*
  * LCD.c
  * Created: 8/31/2021 12:58:19 PM
- *  Author: MOHAMED_HELMY
+ *  Author: AHMED_HELMY
  */ 
 #include "LCD_CFG.h"
 #include "DIO.h"
