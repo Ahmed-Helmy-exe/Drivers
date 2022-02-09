@@ -1,7 +1,7 @@
 /*
  * S_SEG.h
  * Created: 8/31/2021 10:37:17 AM
- *  Author: MOHAMED_HELMY
+ *  Author: AHMED_HELMY
  */ 
 
 
