@@ -1,7 +1,7 @@
 /*
  * BIT_MATH.h
  * Created: 8/27/2021 6:37:35 PM
- *  Author: MOHAMED_HELMY
+ *  Author: AHMED_HELMY
  */ 
 
 
