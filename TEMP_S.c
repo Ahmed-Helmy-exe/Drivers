@@ -1,7 +1,7 @@
 ﻿/*
  * TEMP_S.c
  * Created: 17/09/2021 12:19:29 ص
- *  Author: MOHAMED_HELMY
+ *  Author: AHMED_HELMY
  */ 
 
 #include "ADC.h"
