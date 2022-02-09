@@ -1,7 +1,7 @@
 ﻿/*
  * DC_MOTOR_CFG.h
  * Created: 23/09/2021 06:34:30 م
- *  Author: MOHAMED_HELMY
+ *  Author: AHMED_HELMY
  */ 
 
 
