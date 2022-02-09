@@ -1,7 +1,7 @@
 ﻿/*
  * ADC_CFG.h
  * Created: 12/09/2021 01:43:15 ص
- *  Author: MOHAMED_HELMY
+ *  Author: AHMED_HELMY
  */ 
 
 
