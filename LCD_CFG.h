@@ -1,7 +1,7 @@
 /*
  * LCD_CFG.h
  * Created: 8/31/2021 12:58:39 PM
- *  Author: MOHAMED_HELMY
+ *  Author: AHMED_HELMY
  */ 
 
 
