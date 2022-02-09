@@ -1,7 +1,7 @@
 ﻿/*
  * SERVO_MOTOR.c
  * Created: 24/09/2021 03:38:51 ص
- *  Author: MOHAMED_HELMY
+ *  Author: AHMED_HELMY
  */ 
 
 #include "DIO.h"
