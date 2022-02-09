@@ -1,7 +1,7 @@
 /*
  * BUZZER.c
  * Created: 8/30/2021 10:31:40 PM
- *  Author: MOHAMED_HELMY
+ *  Author: AHMED_HELMY
  */ 
 
 #include "BUZZER_CFG.h"
