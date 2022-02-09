@@ -1,7 +1,7 @@
 ﻿/*
  * ADC.c
  * Created: 12/09/2021 01:42:53 ص
- *  Author: MOHAMED_HELMY
+ *  Author: AHMED_HELMY
  */ 
 
 #include "ADC_CFG.h"
