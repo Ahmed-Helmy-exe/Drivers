@@ -1,7 +1,7 @@
 ﻿/*
  * ADC.h
  * Created: 12/09/2021 01:43:03 ص
- *  Author: MOHAMED_HELMY
+ *  Author: AHMED_HELMY
  */ 
 
 
